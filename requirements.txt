@@ -1,0 +1,5 @@
+confuse
+mido
+obs-websocket-py
+pygame
+python-rtmidi
